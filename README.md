@@ -3,7 +3,7 @@
 This project is a submission for the **Framer Internship Task**, built using **Next.js**, **React.js**, and **Tailwind CSS**. It showcases a minimal e-commerce experience for an F1-themed streetwear brand. The focus is on **UX clarity**, **clean structure**, and smart use of time rather than feature bloat.
 
 ## 🔗 Live Demo
-**Website:** [https://f1_website.vercel.app]
+**Website:** [https://f1-inspired-website.vercel.app/]
 
 ## 📁 Features Implemented
 
